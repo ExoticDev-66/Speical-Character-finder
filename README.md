@@ -1,0 +1,2 @@
+# Special-keyboard-character-finder
+Special keyboard character tells you if there are any Special Keyboard character in the variable.  You might have seen in some websites.. when you Sign-up &amp; you accidentally press "@" or any other special character for username then it tells you that the username is invalid.. this Special character finder works the same &amp; is open-sourced for you to take &amp; use it for your purpose!  -- TrueHarmony_66
